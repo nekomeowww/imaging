@@ -5,7 +5,7 @@ import (
 	"image/color"
 	"log"
 
-	"github.com/disintegration/imaging"
+	"github.com/nekomeowww/imaging"
 )
 
 func Example() {
